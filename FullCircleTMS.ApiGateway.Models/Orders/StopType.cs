@@ -1,6 +1,6 @@
 using System.Runtime.Serialization;
 
-namespace FullCircleTMS.ApiGateway.Models.Order
+namespace FullCircleTMS.ApiGateway.Models.Orders
 {
     public enum StopType
     {

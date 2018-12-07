@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace FullCircleTMS.ApiGateway.Models.Order
+namespace FullCircleTMS.ApiGateway.Models.Orders
 {
     public class Order
     {

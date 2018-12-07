@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace FullCircleTMS.ApiGateway.Models.Order
+namespace FullCircleTMS.ApiGateway.Models.Orders
 {
     public class Stop
     {
